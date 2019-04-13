@@ -1,11 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
-import './components/navigation';
 import Header from './components/header/header';
 import About from './components/about/about';
 import Resume from './components/resume/resume';
 import Portfolio from './components/portfolio/portfolio';
-import Testimonials from  './components/testimonials/testimonials';
 import Footer from './components/footer/footer';
 import resumeData from './resumeData';
 
@@ -17,7 +15,6 @@ class App extends Component {
         <About resumeData={resumeData}/>
         <Resume resumeData={resumeData}/>
         <Portfolio resumeData={resumeData}/>
-        <Testimonials resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
       </div>
     );
