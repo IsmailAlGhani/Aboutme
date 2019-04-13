@@ -9,9 +9,9 @@ export default class Header extends Component {
                     <div className="row">
                         <div className="twelve columns">
                             <ul className="social-links">
-                                <li><a href="#"><i className="fa fa-twitter" /></a></li>
-                                <li><a href="#"><i className="fa fa-linkedin" /></a></li>
-                                <li><a href="#"><i className="fa fa-instagram" /></a></li>
+                                <li><a href="https://twitter.com/mailcool"><i className="fa fa-twitter" /></a></li>
+                                <li><a href="https://www.linkedin.com/in/ismail-al-ghani-84a775147/"><i className="fa fa-linkedin" /></a></li>
+                                <li><a href="https://www.instagram.com/d_mail6/"><i className="fa fa-instagram" /></a></li>
                             </ul>
                             <ul className="copyright">
                                 <li>© Copyright 2019</li>
