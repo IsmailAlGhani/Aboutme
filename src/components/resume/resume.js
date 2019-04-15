@@ -42,6 +42,26 @@ export default class Resume extends Component {
                             </div>
                         </div>
                     </div>
+                    <div className="row skill">
+                        <div className="three columns header-col">
+                            <h1><span>Skills</span></h1>
+                        </div>
+                        <div className="nine columns main-col">
+                            <p>This is a skill that I gained during my studies.</p>
+                            <div className="bars">
+                                <ul className="skills">
+                                    <li><span className="bar-expand python" /><em>Python</em></li>
+                                    <li><span className="bar-expand java" /><em>Java</em></li>
+                                    <li><span className="bar-expand php" /><em>PHP</em></li>
+                                    <li><span className="bar-expand css" /><em>CSS</em></li>
+                                    <li><span className="bar-expand html5" /><em>HTML5</em></li>
+                                    <li><span className="bar-expand jquery" /><em>jQuery</em></li>
+                                    <li><span className="bar-expand bootstrap" /><em>Bootstrap</em></li>
+                                    <li><span className="bar-expand reactjs" /><em>ReactJS</em></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </section>
             </React.Fragment>
         );
