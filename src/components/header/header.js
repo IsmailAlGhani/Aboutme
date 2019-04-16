@@ -25,7 +25,7 @@ export default class Header extends Component {
                             <hr />
                             <ul className="social">                                
                                 <li><a href="https://twitter.com/mailcool"><i className="fa fa-twitter" /></a></li>
-                                <li><a href="https://www.linkedin.com/in/ismail-al-ghani-84a775147/"><i className="fa fa-linkedin" /></a></li>
+                                <li><a href="https://www.linkedin.com/in/IsmailAlGhani/"><i className="fa fa-linkedin" /></a></li>
                                 <li><a href="https://www.instagram.com/d_mail6/"><i className="fa fa-instagram" /></a></li>
                             </ul>
                         </div>
