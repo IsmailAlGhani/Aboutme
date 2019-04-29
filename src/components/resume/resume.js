@@ -14,7 +14,7 @@ export default class Resume extends Component {
                             <div className="row item">
                                 <div className="twelve columns">
                                     <h3>University of Indonesia</h3>
-                                    <p className="info">College Student in Information System <span>•</span> <em className="date">Agustus 2016 - Present</em></p>
+                                    <p className="info">College Student in Computer Science <span>•</span> <em className="date">Agustus 2016 - Present</em></p>
                                     <p>
                                     I'm third year college student from University of Indonesia. 
                                     My major is Information System. I have passed the SBMPTN test in 2016. 

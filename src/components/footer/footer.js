@@ -15,7 +15,7 @@ export default class Header extends Component {
                             </ul>
                             <ul className="copyright">
                                 <li>© Copyright 2019</li>
-                                <li>Design by <a>Ismail Al Ghani</a></li>
+                                <li>Design by Ismail Al Ghani</li>
                             </ul>
                         </div>
                         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a>
