@@ -32,11 +32,22 @@ export default class Resume extends Component {
                             <div className="row item">
                                 <div className="twelve columns">
                                     <h3>Project Intern</h3>
-                                    <p className="info">Project Manager <span>•</span> <em className="date">February 2019 - Present</em></p>
+                                    <p className="info">Project Manager <span>•</span> <em className="date">February 2019 - May 2019</em></p>
                                     <p>
                                     The project that I handle is an accounting information system. 
                                     In that project, I also became a software development engineer. 
                                     I can share my time as a project manager and software development engineer well.
+                                    </p>
+                                </div>
+                            </div>
+                            <div className="row item">
+                                <div className="twelve columns">
+                                    <h3>Skydu Intern</h3>
+                                    <p className="info">Web Developer <span>•</span> <em className="date">Juni 2019 - Agustus 2019</em></p>
+                                    <p>
+                                    I handle a front-end for student in Skydu Learning Management System. 
+                                    In that intern, I maintain front-end website for student and developed new features. 
+                                    I learn a culture in startup and agile atmosphere in that startup.
                                     </p>
                                 </div>
                             </div>
