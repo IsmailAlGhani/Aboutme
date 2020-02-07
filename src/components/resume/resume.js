@@ -16,9 +16,10 @@ export default class Resume extends Component {
                                     <h3>University of Indonesia</h3>
                                     <p className="info">College Student in Computer Science <span>•</span> <em className="date">Agustus 2016 - Present</em></p>
                                     <p>
-                                    I'm third year college student from University of Indonesia. 
-                                    My major is Information System. I have passed the SBMPTN test in 2016. 
+                                    I'm last year college student from University of Indonesia. 
+                                    My major is Information System. 
                                     I am a responsible person and have good leadership during group work. I am good at socializing with other friends.
+                                    I am interested in becoming a Software Engineer, QA Engineer, and Data Scientist. 
                                     </p>
                                 </div>
                             </div>
