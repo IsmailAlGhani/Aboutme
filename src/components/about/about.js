@@ -13,10 +13,9 @@ export default class About extends Component {
                         <div className="nine columns main-col">
                             <h2>About Me</h2>
                             <p>My name is Ismail Al Ghani. I am college student from Faculty Computer Science, University of Indonesia. 
-                                My major is Information System. I'm interest to Software Development and User Experience Research. 
-                                I have learnt 2 framework front-end developer. Those are Bootstrap and ReactJS. 
-                                I have learnt 3 framework back-end developer. Those are Django, Spring Boot and CodeIgniter. 
-                                I have learned web developing in college and i'm interested with those.
+                                My major is Information System. I'm interest to Software Development and Data Science. 
+                                I have learnt 2 framework front-end developer and 3 framework back-end developer.
+                                I have learnt many algorithm and library for ETL Data.
                             </p>
                             <div className="row">
                                 <div className="columns contact-details">
@@ -32,7 +31,7 @@ export default class About extends Component {
                                 </div>
                                 <div className="columns download">
                                     <p>
-                                        <a href="file/Portfolio.pdf" className="button"><i className="fa fa-download" />Download Resume</a>
+                                        <a href="file/Portfolio(10 July 2020).pdf" className="button"><i className="fa fa-download" />Download Resume</a>
                                     </p>
                                 </div>
                             </div>

@@ -3,7 +3,7 @@ import './App.css';
 import Header from './components/header/header';
 import About from './components/about/about';
 import Resume from './components/resume/resume';
-import Portfolio from './components/portfolio/portfolio';
+import Activity from './components/activity/activity';
 import Footer from './components/footer/footer';
 import resumeData from './resumeData';
 
@@ -14,7 +14,7 @@ class App extends Component {
         <Header resumeData={resumeData}/>
         <About resumeData={resumeData}/>
         <Resume resumeData={resumeData}/>
-        <Portfolio resumeData={resumeData}/>
+        <Activity resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
       </div>
     );

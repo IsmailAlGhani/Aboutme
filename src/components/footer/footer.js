@@ -14,7 +14,7 @@ export default class Header extends Component {
                                 <li><a href="https://www.instagram.com/d_mail6/"><i className="fa fa-instagram" /></a></li>
                             </ul>
                             <ul className="copyright">
-                                <li>© Copyright 2019</li>
+                                <li>© Copyright 2020</li>
                                 <li>Design by Ismail Al Ghani</li>
                             </ul>
                         </div>
